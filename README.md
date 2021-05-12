@@ -1,4 +1,5 @@
 # impacta-Infrastructure
+Criar atráves do vagrant uma máquina virtual, com o MySQL instalado e disponível no host, na porta 3306.
 
 Pré requisitos:  
 Ter o <code>Vagrant</code> e <code>Virtualbox</code> instalados, ou qualquer outro software virtualizador.
